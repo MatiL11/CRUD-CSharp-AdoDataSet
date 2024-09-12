@@ -1,0 +1,10 @@
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD_DataSet\CRUD_DataSet\bin\Debug\CRUD_DataSet.exe.config
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD_DataSet\CRUD_DataSet\bin\Debug\CRUD_DataSet.exe
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD_DataSet\CRUD_DataSet\bin\Debug\CRUD_DataSet.pdb
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD_DataSet\CRUD_DataSet\obj\Debug\CRUD_DataSet.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD_DataSet\CRUD_DataSet\obj\Debug\CRUD_DataSet.Form1.resources
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD_DataSet\CRUD_DataSet\obj\Debug\CRUD_DataSet.Properties.Resources.resources
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD_DataSet\CRUD_DataSet\obj\Debug\CRUD_DataSet.csproj.GenerateResource.cache
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD_DataSet\CRUD_DataSet\obj\Debug\CRUD_DataSet.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD_DataSet\CRUD_DataSet\obj\Debug\CRUD_DataSet.exe
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD_DataSet\CRUD_DataSet\obj\Debug\CRUD_DataSet.pdb
